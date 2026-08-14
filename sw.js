@@ -1,7 +1,7 @@
 /* Rice Break-even Price — offline service worker.
    Bump CACHE (e.g. rice-be-v2) whenever you re-upload changed files,
    so phones fetch the new version instead of the cached one. */
-const CACHE = 'rice-be-v2';
+const CACHE = 'rice-be-v3';
 const ASSETS = [
   './',
   './index.html',
